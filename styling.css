@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+.red
+{
+    margin-bottom:100px ;
+    background-color: darkorange;
+    height:100px;
+}
+.blue
+{
+    background-color: blue;
+    height: 100px;;
+}
+.green
+{
+    background-color: darkgreen;
+    height:100px;
+}
